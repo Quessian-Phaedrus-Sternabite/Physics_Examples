@@ -1,0 +1,8 @@
+('c:\\python 39\\lib\\site-packages\\certifi-2020.12.5-py3.9.egg',
+ None,
+ {'EGG-INFO', '*.pyc', '*.py', '*.pyd', '*.cp39-win_amd64.pyd', '*.pyw'},
+ 'DATA',
+ [('certifi\\cacert.pem',
+   'c:\\python '
+   '39\\lib\\site-packages\\certifi-2020.12.5-py3.9.egg\\certifi\\cacert.pem',
+   'DATA')])
